@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress User Pages
+ * WordPress User Pagess
  *
  * Handles authentication, registering, resetting passwords, forgot password,
  * and other user handling.
